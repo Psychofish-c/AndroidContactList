@@ -104,7 +104,7 @@ Educational project for university course. Feel free to use for learning.
 **Course Context:**
 This project was developed as part of the **Comprehensive Training II** course design at **Hunan University of Science and Technology**, demonstrating practical application of mobile development concepts learned in the curriculum.
 
-**Developed with ❤️ by [Psycho-c](https://github.com/Psycho-c)**  
+**Developed with ❤️ by [Psychofish-c](https://github.com/Psychofish-c)**  
 Computer Science Student | Android Developer
 
 ---
