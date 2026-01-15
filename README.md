@@ -6,17 +6,17 @@ A complete Android contact management application that integrates with the syste
     <td align="center">
       <img src="./screenshots/screenshot1.png" width="200" />
       <br>
-      截图1描述
+      Add coontacts
     </td>
     <td align="center">
       <img src="./screenshots/screenshot2.png" width="200" />
       <br>
-      截图2描述
+      Contact details
     </td>
     <td align="center">
       <img src="./screenshots/screenshot3.png" width="200" />
       <br>
-      截图3描述
+      Mainpage
     </td>
   </tr>
 </table>
