@@ -20,6 +20,7 @@ A complete Android contact management application that integrates with the syste
     </td>
   </tr>
 </table>
+
 ## ✨ Features
 
 ### 🔍 Core Functionalities
