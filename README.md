@@ -1,7 +1,25 @@
 # 📱 Android Contacts Manager
 
 A complete Android contact management application that integrates with the system address book. Built with Java and Android best practices.
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/screenshot1.png" width="200" />
+      <br>
+      截图1描述
+    </td>
+    <td align="center">
+      <img src="./screenshots/screenshot2.png" width="200" />
+      <br>
+      截图2描述
+    </td>
+    <td align="center">
+      <img src="./screenshots/screenshot3.png" width="200" />
+      <br>
+      截图3描述
+    </td>
+  </tr>
+</table>
 ## ✨ Features
 
 ### 🔍 Core Functionalities
