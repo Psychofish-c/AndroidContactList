@@ -16,7 +16,7 @@ A complete Android contact management application that integrates with the syste
     <td align="center">
       <img src="./screenshots/screenshot3.png" width="200" />
       <br>
-      Mainpage
+      MainView
     </td>
   </tr>
 </table>
